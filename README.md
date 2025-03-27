@@ -21,7 +21,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/data-structures-demo.git
+   git clone https://github.com/JanviNandre/data_structures_in_popular_apps/edit/main/README.md
    cd data-structures-demo
    ```
 
