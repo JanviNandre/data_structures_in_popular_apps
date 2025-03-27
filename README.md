@@ -1,6 +1,3 @@
-Here's a concise `README.md` for your GitHub repository with all Java files in the root directory:
-
-```markdown
 # Data Structures in Real-World Apps
 
 🚀 **Simple Java implementations of data structures powering popular applications**
